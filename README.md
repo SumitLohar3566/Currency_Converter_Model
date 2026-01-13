@@ -41,7 +41,12 @@ Currency_Converter_Model/
 
 📸 Screenshots
 
-<img width="1870" height="721" alt="Screenshot 2026-01-13 163147" src="https://github.com/user-attachments/assets/9db44664-fd56-424a-947b-c55c36cbf3e6" />
+<img width="1918" height="845" alt="Screenshot 2026-01-13 163032" src="https://github.com/user-attachments/assets/34531a53-558b-45cf-90f0-ddf123c45ec9" />
+<img width="1911" height="799" alt="Screenshot 2026-01-13 163045" src="https://github.com/user-attachments/assets/06b7723a-7cf9-4794-959b-93e347244ef9" />
+<img width="1880" height="737" alt="Screenshot 2026-01-13 163101" src="https://github.com/user-attachments/assets/8299f488-4ad9-4171-99ec-a76dd750d613" />
+<img width="1881" height="858" alt="Screenshot 2026-01-13 163122" src="https://github.com/user-attachments/assets/9804ec1c-5afb-4e38-8d60-768eefdf811d" />
+<img width="1898" height="507" alt="Screenshot 2026-01-13 163136" src="https://github.com/user-attachments/assets/3cee5a40-cff2-40a3-8fb9-caef302c08f8" />
+<img width="1870" height="721" alt="Screenshot 2026-01-13 163147" src="https://github.com/user-attachments/assets/044a117f-5188-403f-bf8f-598b81b7622a" />
 
 
 🏠 Application Home
