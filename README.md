@@ -70,10 +70,5 @@ Exchangerate.host (Fallback)
 Exchange rates displayed in this application are for informational purposes only.
 Actual exchange rates may vary depending on market conditions.
 
-👨‍💻 Author
 
-Sumit Lohar
-
-[GitHub: https://github.com/shubhamthube90](https://github.com/SumitLohar3566/Currency_Converter_Model/new/main)
-
-[LinkedIn: https://www.linkedin.com/in/shubham-thube-a0a07b259](https://www.linkedin.com/in/sumit-lohar-498341317/)
+📞 Contact Developer: Sumit Lohar 📧 Email:sumitlohar063@gmail.com 🐙 GitHub: https://github.com/SumitLohar3566🔗 LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
